@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LVuniqiFinalProject", "LVuniqiFinalProject\LVuniqiFinalProject.csproj", "{8D86404C-C96C-480E-82A9-551C81C2EE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D86404C-C96C-480E-82A9-551C81C2EE27}.Debug|x86.ActiveCfg = Debug|x86
+		{8D86404C-C96C-480E-82A9-551C81C2EE27}.Debug|x86.Build.0 = Debug|x86
+		{8D86404C-C96C-480E-82A9-551C81C2EE27}.Release|x86.ActiveCfg = Release|x86
+		{8D86404C-C96C-480E-82A9-551C81C2EE27}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC14A8D4-F957-4286-8297-BA7C4DBA88F1}
+	EndGlobalSection
+EndGlobal
